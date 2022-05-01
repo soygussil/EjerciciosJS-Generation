@@ -58,8 +58,8 @@ septimo();
 
 
 function octavo(){
-    var op=a*b==15;
-    document.getElementById('7').innerHTML = 'El resultado es ' + `<span>${op}</span>`;
+    var op=a*b==30;
+    document.getElementById('8').innerHTML = 'El resultado es ' + `<span>${op}</span>`;
 }
 octavo();
 
